@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "492205467828",
+    "firebase_url": "https://dapp-2b578-default-rtdb.firebaseio.com",
+    "project_id": "dapp-2b578",
+    "storage_bucket": "dapp-2b578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492205467828:android:f355f71790f67374e4cfe1",
+        "android_client_info": {
+          "package_name": "com.example.assets_blockchain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIdsIO26KUIlcjyGHG1XxgzIf-fIb6usk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492205467828:android:fc40d15300ebc824e4cfe1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIdsIO26KUIlcjyGHG1XxgzIf-fIb6usk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492205467828:android:50296862fb200584e4cfe1",
+        "android_client_info": {
+          "package_name": "com.example.real_estate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIdsIO26KUIlcjyGHG1XxgzIf-fIb6usk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
